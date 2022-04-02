@@ -68,4 +68,4 @@ For more detail please check official [documentation](https://eslint.org/docs/ru
 
 ## ESlint dev extension
 
-ESlint <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.2.3/1642067257652/Microsoft.VisualStudio.Services.Icons.Default" width="150"> help user to identify problems easily. You can also use it during development.
+ESlint <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.2.3/1642067257652/Microsoft.VisualStudio.Services.Icons.Default" width="30"> help user to identify problems easily. You can also use it during development.
