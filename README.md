@@ -69,3 +69,11 @@ For more detail please check official [documentation](https://eslint.org/docs/ru
 ## ESlint dev extension
 
 ESlint <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.2.3/1642067257652/Microsoft.VisualStudio.Services.Icons.Default" width="30"> help user to identify problems easily. You can also use it during development.
+
+## ESlint Plugins
+
+Eslint plugins are group of rules which provide additional rules definitions. I added additional plugins and activate JSX for your understanding. Please check in `.eslintrc`
+
+## Note
+
+Soon, I will add React JS best practices for you. Please follow me in github and contact me if you need any help. Thanks
